@@ -138,6 +138,10 @@ Install Stalwart on your server by following the instructions for your platform:
 
 All documentation is available at [stalw.art/docs](https://stalw.art/docs/install/get-started).
 
+## Community Deployment Options
+
+- [Antigenic-OSS Stalwart Helm Chart](https://github.com/Antigenic-OSS/stalwart-helm-chart) (unofficial, community-maintained)
+
 ## Support
 
 If you are having problems running Stalwart, you found a bug or just have a question, do not hesitate to reach us on [GitHub Discussions](https://github.com/stalwartlabs/stalwart/discussions), [Reddit](https://www.reddit.com/r/stalwartlabs) or [Discord](https://discord.com/servers/stalwart-923615863037390889).
